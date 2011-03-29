@@ -439,6 +439,7 @@
     <string-array name="app_install_location_entries">
         <item>Internal device storage</item>
         <item>Removable SD card</item>
+        <item>SD Extension partition</item>
         <item>Let the system decide</item>
     </string-array>
 
@@ -446,6 +447,7 @@
     <string-array name="app_install_location_values" translatable="false">
         <item>device</item>
         <item>sdcard</item>
+        <item>sdext</item>
         <item>auto</item>
     </string-array>
 
